@@ -1,0 +1,14 @@
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.csproj.AssemblyReference.cache
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.AssemblyInfoInputs.cache
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.AssemblyInfo.cs
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.csproj.CoreCompileInputs.cache
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\bin\Debug\netcoreapp3.1\Ekosystem.exe
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\bin\Debug\netcoreapp3.1\Ekosystem.deps.json
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\bin\Debug\netcoreapp3.1\Ekosystem.runtimeconfig.json
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\bin\Debug\netcoreapp3.1\Ekosystem.runtimeconfig.dev.json
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\bin\Debug\netcoreapp3.1\Ekosystem.dll
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\bin\Debug\netcoreapp3.1\Ekosystem.pdb
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.dll
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.pdb
+C:\Users\alexander.fransson3\source\repos\Ekosystem\Ekosystem\obj\Debug\netcoreapp3.1\Ekosystem.genruntimeconfig.cache
